@@ -1,0 +1,18 @@
+{
+  "field.payment_date": "Fecha de pago",
+  "field.payment_account": "Cuenta de pago",
+  "field.amount": "Cantidad",
+  "field.currency_code": "Moneda",
+  "field.exchange_rate": "Tipo de cambio",
+  "field.reference_no": "No. de referencia",
+  "field.description": "Descripción",
+  "field.line_description": "Descripción de línea",
+  "field.published": "Publicado",
+  "field.categories": "Categorías",
+  "field.expense_account": "Cuenta de gastos",
+  "field.publish": "Publicar",
+  "field.status": "Estado",
+  "field.status.draft": "Borrador",
+  "field.status.published": "Publicado",
+  "field.created_at": "Creado en"
+} 

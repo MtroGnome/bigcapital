@@ -1,0 +1,11 @@
+{
+  "field.date_range": "Rango de fechas",
+  "field.account_name": "Nombre de la cuenta",
+  "field.total": "Total",
+  "field.percentage": "Porcentaje",
+  "field.balance": "Saldo",
+  "field.credit": "Crédito",
+  "field.debit": "Débito",
+  "field.beginning_balance": "Saldo inicial",
+  "field.ending_balance": "Saldo final"
+} 

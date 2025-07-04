@@ -1,0 +1,8 @@
+{
+  "field.name": "Nombre de la categoría",
+  "field.description": "Descripción",
+  "field.sell_account": "Cuenta de venta",
+  "field.cost_account": "Cuenta de costo",
+  "field.inventory_account": "Cuenta de inventario",
+  "field.created_at": "Creado en"
+} 

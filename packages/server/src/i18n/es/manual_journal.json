@@ -1,0 +1,14 @@
+{
+  "field.journal_number": "Número de diario",
+  "field.journal_date": "Fecha del diario",
+  "field.description": "Descripción",
+  "field.reference": "Referencia",
+  "field.amount": "Cantidad",
+  "field.credit": "Crédito",
+  "field.debit": "Débito",
+  "field.account": "Cuenta",
+  "field.contact": "Contacto",
+  "field.published": "Publicado",
+  "field.created_at": "Creado en",
+  "field.status": "Estado"
+} 

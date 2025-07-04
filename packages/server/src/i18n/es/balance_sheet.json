@@ -1,0 +1,21 @@
+{
+  "assets": "Activos",
+  "current_asset": "Activo circulante",
+  "cash_and_cash_equivalents": "Efectivo y equivalentes de efectivo",
+  "accounts_receivable": "Cuentas por cobrar",
+  "inventory": "Inventario",
+  "other_current_assets": "Otros activos circulantes",
+  "fixed_asset": "Activo fijo",
+  "non_current_assets": "Activos no circulantes",
+  "liabilities_and_equity": "Pasivos y patrimonio",
+  "liabilities": "Pasivos",
+  "current_liabilties": "Pasivos circulantes",
+  "long_term_liabilities": "Pasivos a largo plazo",
+  "non_current_liabilities": "Pasivos no circulantes",
+  "equity": "Patrimonio",
+  "net_income": "Utilidad neta",
+  "account_name": "Nombre de la cuenta",
+  "total": "Total",
+  "percentage_of_column": "% de columna",
+  "percentage_of_row": "% de fila"
+} 

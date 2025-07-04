@@ -1,0 +1,14 @@
+{
+  "paper.receipt": "Recibo",
+  "paper.billed_to": "Facturar a",
+  "paper.receipt_date": "Fecha del recibo",
+  "paper.receipt_number": "Número de recibo",
+  "paper.expiration_date": "Fecha de vencimiento",
+  "paper.conditions_title": "Condiciones y términos",
+  "paper.notes": "Notas",
+  "paper.statement": "Declaración",
+  "paper.receipt_amount": "Monto del recibo",
+  "paper.total": "Total",
+  "paper.balance_due": "Saldo adeudado",
+  "paper.payment_amount": "Monto del pago"
+} 

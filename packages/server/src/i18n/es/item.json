@@ -1,0 +1,22 @@
+{
+  "field.type": "Tipo de artículo",
+  "field.type.inventory": "Inventario",
+  "field.type.service": "Servicio",
+  "field.type.non-inventory": "No inventariable",
+  "field.name": "Nombre del artículo",
+  "field.code": "Código del artículo",
+  "field.sellable": "Vendible",
+  "field.purchasable": "Comprable",
+  "field.cost_price": "Precio de costo",
+  "field.sell_price": "Precio de venta",
+  "field.cost_account": "Cuenta de costo",
+  "field.sell_account": "Cuenta de venta",
+  "field.sell_description": "Descripción de venta",
+  "field.inventory_account": "Cuenta de inventario",
+  "field.purchase_description": "Descripción de compra",
+  "field.quantity_on_hand": "Cantidad disponible",
+  "field.note": "Nota",
+  "field.category": "Categoría",
+  "field.active": "Activo",
+  "field.created_at": "Creado en"
+} 

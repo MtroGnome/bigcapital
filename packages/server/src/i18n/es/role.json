@@ -1,0 +1,7 @@
+{
+  "field.name": "Nombre del rol",
+  "field.description": "Descripción",
+  "field.permissions": "Permisos",
+  "field.predefined": "Predefinido",
+  "field.created_at": "Creado en"
+} 

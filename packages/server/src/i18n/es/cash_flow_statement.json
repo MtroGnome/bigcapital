@@ -1,0 +1,16 @@
+{
+  "operating_activities": "Actividades operativas",
+  "investing_activities": "Actividades de inversión",
+  "financing_activities": "Actividades de financiación",
+  "net_cash_flow": "Flujo de caja neto",
+  "beginning_cash_balance": "Saldo inicial de efectivo",
+  "ending_cash_balance": "Saldo final de efectivo",
+  "increase_decrease_in_cash": "Aumento/disminución en efectivo",
+  "net_cash_used_in_operating_activities": "Efectivo neto usado en actividades operativas",
+  "net_cash_used_in_investing_activities": "Efectivo neto usado en actividades de inversión",
+  "net_cash_used_in_financing_activities": "Efectivo neto usado en actividades de financiación",
+  "account_name": "Nombre de la cuenta",
+  "total": "Total",
+  "percentage_of_column": "% de columna",
+  "percentage_of_row": "% de fila"
+} 

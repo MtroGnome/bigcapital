@@ -1,0 +1,10 @@
+{
+  "field.module": "Módulo",
+  "field.lock_to_date": "Bloquear hasta fecha",
+  "field.lock_from_date": "Bloquear desde fecha",
+  "field.unlock_from_date": "Desbloquear desde fecha",
+  "field.unlock_to_date": "Desbloquear hasta fecha",
+  "field.is_lock_active": "¿Está activo el bloqueo?",
+  "field.reason": "Razón",
+  "field.lock_reason": "Razón del bloqueo"
+} 

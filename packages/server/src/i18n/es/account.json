@@ -1,0 +1,17 @@
+{
+  "field.name": "Nombre de la cuenta",
+  "field.description": "Descripción",
+  "field.slug": "Slug de la cuenta",
+  "field.code": "Código de la cuenta",
+  "field.root_type": "Tipo raíz",
+  "field.normal": "Cuenta normal",
+  "field.normal.credit": "Crédito",
+  "field.normal.debit": "Débito",
+  "field.type": "Tipo",
+  "field.active": "Activo",
+  "field.currency": "Moneda",
+  "field.balance": "Saldo",
+  "field.bank_balance": "Saldo bancario",
+  "field.parent_account": "Cuenta principal",
+  "field.created_at": "Creado en"
+} 

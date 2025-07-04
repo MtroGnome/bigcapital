@@ -1,0 +1,7 @@
+{
+  "field.vendor": "Proveedor",
+  "field.vendor_credit_date": "Fecha del crédito del proveedor",
+  "field.vendor_credit_number": "Número del crédito del proveedor",
+  "field.amount": "Cantidad",
+  "field.created_at": "Creado en"
+} 

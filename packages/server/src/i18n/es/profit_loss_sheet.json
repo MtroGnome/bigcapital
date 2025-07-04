@@ -1,0 +1,18 @@
+{
+  "income": "Ingresos",
+  "cost_of_goods_sold": "Costo de ventas",
+  "gross_profit": "Utilidad bruta",
+  "operating_expenses": "Gastos operativos",
+  "operating_income": "Ingreso operativo",
+  "other_income": "Otros ingresos",
+  "other_expense": "Otros gastos",
+  "net_income": "Utilidad neta",
+  "account_name": "Nombre de la cuenta",
+  "total": "Total",
+  "percentage_of_income": "% de ingresos",
+  "percentage_of_column": "% de columna",
+  "percentage_of_row": "% de fila",
+  "expenses": "Gastos",
+  "total_cost_of_goods_sold": "Costo total de ventas",
+  "total_operating_expenses": "Total de gastos operativos"
+} 
